@@ -11,7 +11,7 @@ url:
 owner:
   name:           Yodi Yanwar
   avatar:         avatar.jpg
-  bio:            "Membaca untuk menulis, mendengar untuk menyampaikan"
+  bio:            "Melancholist - Introvert - a Person"
   email:          yodi.yanwar@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        	https://twitter.com/yodieys13
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Jakarta
 future:      true
 highlighter: pygments
 markdown:    kramdown
